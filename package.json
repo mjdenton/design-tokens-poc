@@ -1,0 +1,25 @@
+{
+  "name": "style-dictionary-matching-build-files",
+  "version": "1.0.0",
+  "description": "An example to show how to automate build files that match folders",
+  "main": "build/js/cjs/index.js",
+  "module": "build/js/esm/index.js",
+  "files": [
+    "build",
+    "properties"
+  ],
+  "scripts": {
+    "build": "style-dictionary build --config ./config.js",
+    "clean": "rm -rf build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jet2",
+  "license": "",
+  "devDependencies": {
+    "@divriots/style-dictionary-to-figma": "^0.4.0",
+    "@tokens-studio/sd-transforms": "^0.12.2",
+    "json5": "^2.2.3",
+    "style-dictionary": "^3.9.1",
+    "style-dictionary-utils": "^2.0.7"
+  }
+}
