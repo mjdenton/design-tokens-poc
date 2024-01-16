@@ -15,7 +15,3 @@ jobs:
         run: npm ci 
       # Convert tokens according to Style Dictionary config
       - run: npm run build
-      # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
-      - uses: lfantom/git-auto-commit-action@v4
-        with:
-          commit_message: Update Tokens
