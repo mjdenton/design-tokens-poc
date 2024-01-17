@@ -504,10 +504,6 @@
       "large": {
         "value": "16rem",
         "type": "dimension"
-      },
-      "x-large": {
-        "value": "32rem",
-        "type": "dimension"
       }
     },
     "space": {
