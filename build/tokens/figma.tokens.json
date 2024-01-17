@@ -510,14 +510,14 @@
         "value": "24rem"
       }
     },
+    "secondary": {
+      "type": "color",
+      "value": "#FF3030",
+      "description": "this is the secondary color"
+    },
     "primary": {
       "type": "color",
       "value": "#4BDED5"
-    },
-    "secondary": {
-      "type": "color",
-      "value": "#FF0000",
-      "$description": "this is the secondary color"
     },
     "space": {
       "25": {
