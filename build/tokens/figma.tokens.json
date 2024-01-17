@@ -514,6 +514,10 @@
       "type": "color",
       "value": "#4BDED5"
     },
+    "secondary": {
+      "type": "color",
+      "value": "red"
+    },
     "space": {
       "25": {
         "value": "8 * 0.25",
