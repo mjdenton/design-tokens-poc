@@ -493,21 +493,21 @@
       }
     },
     "size": {
-      "small": {
+      "xlarge": {
         "type": "dimension",
-        "value": "2rem"
-      },
-      "medium": {
-        "type": "dimension",
-        "value": "8rem"
+        "value": "24rem"
       },
       "large": {
         "type": "dimension",
         "value": "16rem"
       },
-      "xlarge": {
+      "medium": {
         "type": "dimension",
-        "value": "32rem"
+        "value": "8rem"
+      },
+      "small": {
+        "type": "dimension",
+        "value": "2rem"
       }
     },
     "space": {
