@@ -516,7 +516,8 @@
     },
     "secondary": {
       "type": "color",
-      "value": "#DE4B4B"
+      "value": "#FF0000",
+      "$description": "this is the secondary color"
     },
     "space": {
       "25": {
