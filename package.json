@@ -1,5 +1,5 @@
 {
-  "name": "style-dictionary-matching-build-files",
+  "name": "@lfantom/design-tokens",
   "version": "1.0.0",
   "description": "An example to show how to automate build files that match folders",
   "main": "build/js/cjs/index.js",
