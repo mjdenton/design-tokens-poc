@@ -493,26 +493,26 @@
       }
     },
     "size": {
-      "xlarge": {
+      "small": {
         "type": "dimension",
-        "value": "24rem"
-      },
-      "large": {
-        "type": "dimension",
-        "value": "16rem"
+        "value": "2rem"
       },
       "medium": {
         "type": "dimension",
         "value": "8rem"
       },
-      "small": {
+      "large": {
         "type": "dimension",
-        "value": "2rem"
+        "value": "16rem"
+      },
+      "xlarge": {
+        "type": "dimension",
+        "value": "24rem"
       }
     },
     "primary": {
       "type": "color",
-      "value": "#DE4BB7"
+      "value": "#4BDED5"
     },
     "space": {
       "25": {
