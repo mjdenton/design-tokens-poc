@@ -516,7 +516,7 @@
     },
     "secondary": {
       "type": "color",
-      "value": "red"
+      "value": "#DE4B4B"
     },
     "space": {
       "25": {
