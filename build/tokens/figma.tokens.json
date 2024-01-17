@@ -259,9 +259,7 @@
         "900": {
           "value": "#203240",
           "type": "color"
-        },
-        "type": "color",
-        "value": "#0000ff"
+        }
       },
       "grey": {
         "25": {
@@ -511,6 +509,10 @@
         "type": "dimension",
         "value": "2rem"
       }
+    },
+    "primary": {
+      "type": "color",
+      "value": "#4B90DF"
     },
     "space": {
       "25": {
