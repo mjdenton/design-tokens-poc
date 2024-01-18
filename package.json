@@ -14,12 +14,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jet2",
-  "license": "",
+  "license": "ISC",
   "devDependencies": {
     "@divriots/style-dictionary-to-figma": "^0.4.0",
     "@tokens-studio/sd-transforms": "^0.12.2",
     "json5": "^2.2.3",
     "style-dictionary": "^3.9.1",
     "style-dictionary-utils": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfantom/design-tokens-poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lfantom/design-tokens-poc/issues"
+  },
+  "homepage": "https://github.com/lfantom/design-tokens-poc#readme"
 }
