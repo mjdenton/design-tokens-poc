@@ -1,0 +1,25 @@
+{
+  "name": "@dntz/design-tokens-web",
+  "version": "0.0.1",
+  "description": "Style variables for web",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dntz/design-tokens-web"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "package",
+    "registry"
+  ],
+  "author": {
+    "name": "Michael",
+    "email": "michael.denton@jet2.com",
+    "url": "https://www.jet2.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dntz/design-tokens-web/issues"
+  },
+  "homepage": "https://github.com/dntz/design-tokens-web#readme"
+}

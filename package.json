@@ -1,5 +1,5 @@
 {
-  "name": "@lfantom/design-tokens-poc",
+  "name": "@mjdenton/design-tokens-poc",
   "version": "1.0.0",
   "description": "An example to show how to automate build files that match folders",
   "main": "build/js/cjs/index.js",
